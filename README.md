@@ -34,6 +34,6 @@ The codebase is organized as follows:
 - Implement a scoreboard to track player scores in multiplayer mode.
 
 ## Credits
-- Developed by Rishit
+- Developed by Arnab Chakraborty
 
 
